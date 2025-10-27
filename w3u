@@ -1,0 +1,49 @@
+{
+"name":"Movies Time",
+"author":"boy23",
+"info":"wiseplay online",
+"image":"https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/250px-Movietime.svg.png",
+"url":"",
+"stations":[
+
+{"name":"HBO",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png",
+"url":"https://dookeela2.live/live-tv/hbo",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.5 safari/537.36",
+"referer":"https://dookeela2.live/live-tv",
+"info":"boy23",
+"playInNatPlayer":"true"},
+
+{"name":"HBO hits",
+"image":"https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png?20150518060354",
+"url":"https://dookeela2.live/live-tv/hbo-hits",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.5 safari/537.36",
+"referer":"https://dookeela2.live/live-tv",
+"info":"boy23",
+"playInNatPlayer":"true"},
+
+{"name":"HBO signature",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/250px-HBO_Signature_Asia.png",
+"url":"https://dookeela2.live/live-tv/hbo-signature",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.5 safari/537.36",
+"referer":"https://dookeela2.live/live-tv",
+"info":"boy23",
+"playInNatPlayer":"true"},
+
+{"name":"HBO family",
+"image":https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/250px-HBO_Family_Asia_logo.svg.png"",
+"url":"https://dookeela2.live/live-tv/hbo-family",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.5 safari/537.36",
+"referer":"https://dookeela2.live/live-tv",
+"info":"boy23",
+"playInNatPlayer":"true"},
+
+{"name":"cinemax",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png",
+"url":"https://dookeela2.live/live-tv/cinemax",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.5 safari/537.36",
+"referer":"https://dookeela2.live/live-tv",
+"info":"boy23",
+"playInNatPlayer":"true"},
+
+]}
